@@ -55,7 +55,7 @@
     <div class="container mt-3">
         <h1>Please enter your email and password</h1>
         <!-- Now this form returns assosiative array of data to formtest.php file where we can get it based on the method used with form-->
-        <form action="formtest.php" method="get">
+        <form action="formtest1.php" method="post">
             <div class="form-group">
                 <label for="exampleInputEmail1">Email address</label>
                 <input type="email" class="form-control" id="exampleInputEmail1" name="email"

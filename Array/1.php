@@ -9,7 +9,7 @@
 
 <body>
     <?php
-echo("<h1>In php there are three types of Array</h1>");
+echo("<h1>In php there are three types of Array: To rpint array use print_r</h1>");
 ?>
     <ol start="1">
         <li>Indexed array</li>
