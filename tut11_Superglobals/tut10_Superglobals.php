@@ -1,7 +1,7 @@
 <?php
 
-echo("<h1>Some predefines global variables in php are known as - superglobals</h1>");
-echo("<p>Lets say we are working in a directory having many files. If we want to access varibales of one file from another fuile or within the same file globally, we use superglobals.</p>");
+echo("<h1>Some predefined global variables in php are known as - superglobals</h1>");
+echo("<p>Lets say we are working in a directory having many files. If we want to access variables of one file from another file or within the same file globally, we use superglobals.</p>");
 echo("<h3>Superglobals in php</h3>
        <ul>
        <li>$_GET</li>
