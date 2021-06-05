@@ -1,5 +1,24 @@
 {
+    "name": "taslim/php-tutorial",
+    "description": "Php Project",
     "require-dev": {
-        "phpdocumentor/phpdocumentor": "2.*"
+        "theseer/phpdox": "^0.12.0",
+         "vlucas/phpdotenv": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taslim",
+            "email": "taslimarif600@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "^3.9",
+        "guzzlehttp/guzzle": "^7.3"
     }
 }
